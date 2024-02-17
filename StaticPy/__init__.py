@@ -1,0 +1,1 @@
+from StaticPy import StaticPy
